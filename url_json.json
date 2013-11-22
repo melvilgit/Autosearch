@@ -1,0 +1,8 @@
+{
+"unique_asset_url":"http://ims.corp.inmobi.com:5984/ims/_design/ims-power-search/_view/by_type",
+
+"asset_attr_url":"http://ims.corp.inmobi.com:5984/ims/_design/sa_reports/_view/all_attributes?group=true&reduce=true",
+
+"unique_attr_url":"http://ims.corp.inmobi.com:5984/ims/_design/ims-power-search/_view/all_attr?reduce=False"
+
+}

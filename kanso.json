@@ -1,0 +1,20 @@
+{
+    "name": "ims-power-search",
+    "version": "0.0.1",
+    "description": "IMS SEARRCH UI",
+    "modules": ["lib"],
+    "load": "lib/app",
+     "attachments": ["search_ui.html","lib/css/bootstrap.css","lib/bootstrap.js","lib/jqueryui.js","lib/jquery1.9.js","lib/jquery.min.js","url_json.json","lib/autocomplete.js","lib/css/jqueryui.css","lib/bootstrappopover.js"],
+   
+    "dependencies": {
+        "attachments": null,
+        "modules": null,
+        "properties": null,
+	"db": null,
+	"jquery": null,
+        
+        "less-precompiler": null,
+        "bootstrap": null
+       
+    }
+}
